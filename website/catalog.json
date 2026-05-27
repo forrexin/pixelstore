@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "Call Of Duty: Modern Warfare 2",
+    "price": 1500.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=Call+of+Duty",
+    "orderLink": "#"
+  },
+  {
+    "id": 2,
+    "name": "Horizon Forbidden West",
+    "price": 2000.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=Horizon",
+    "orderLink": "#"
+  },
+  {
+    "id": 3,
+    "name": "Elden Ring",
+    "price": 1800.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=Elden+Ring",
+    "orderLink": "#"
+  },
+  {
+    "id": 4,
+    "name": "Cyberpunk 2077",
+    "price": 2200.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=Cyberpunk",
+    "orderLink": "#"
+  },
+  {
+    "id": 5,
+    "name": "Red Dead Redemption 2",
+    "price": 2500.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=RDR2",
+    "orderLink": "#"
+  },
+  {
+    "id": 6,
+    "name": "The Witcher 3",
+    "price": 1400.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=Witcher+3",
+    "orderLink": "#"
+  },
+  {
+    "id": 7,
+    "name": "GTA V",
+    "price": 1200.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=GTA+V",
+    "orderLink": "#"
+  },
+  {
+    "id": 8,
+    "name": "Resident Evil 4",
+    "price": 2100.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=RE4",
+    "orderLink": "#"
+  },
+  {
+    "id": 9,
+    "name": "Hogwarts Legacy",
+    "price": 2300.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=Hogwarts",
+    "orderLink": "#"
+  },
+  {
+    "id": 10,
+    "name": "God of War Ragnarok",
+    "price": 2800.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=God+of+War",
+    "orderLink": "#"
+  },
+  {
+    "id": 11,
+    "name": "Spider-Man Remastered",
+    "price": 1900.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=Spider-Man",
+    "orderLink": "#"
+  },
+  {
+    "id": 12,
+    "name": "The Last of Us Part I",
+    "price": 2600.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=TLOU",
+    "orderLink": "#"
+  },
+  {
+    "id": 13,
+    "name": "Assassin's Creed Mirage",
+    "price": 2000.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=AC+Mirage",
+    "orderLink": "#"
+  }
+]
