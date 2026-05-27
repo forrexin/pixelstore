@@ -1,0 +1,86 @@
+<!DOCTYPE html> 
+<html lang="ua"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <title>Catalog</title> 
+    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image.jpg"> 
+ 
+    <link rel="preconnect" href="https://fonts.googleapis.com"> 
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+    <link 
+href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet"> 
+ 
+    <link rel="stylesheet" href="main.css"> 
+    <link rel="stylesheet" href="catalog.css"> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.7.0/nouislider.min.css">
+</head> 
+ 
+<body> 
+<header class="header"> 
+    <div class="container"> 
+        <div class="header-set"> 
+            <a class="logo">
+                <img src="images/logo.png" alt="PixelShop">
+            </a> 
+            <ul class="menu"> 
+ 
+                <li class="menu_item"> 
+                    <a href="index.html" class="menu_item_text"> 
+                        Головна 
+                    </a> 
+                </li> 
+ 
+                <li class="menu_item"> 
+                    <a href="#" class="menu_item_text"> 
+                        Каталог 
+                    </a> 
+                </li> 
+ 
+                <li class="menu_item"> 
+                    <a href="cart.html" class="menu_item_text"> 
+                        Кошик 
+                    </a> 
+                </li> 
+            </ul> 
+            <a href="tel:+380688413697" class="phone"> 
+                068-841-3697
+            </a> 
+ 
+        </div> 
+    </div> 
+</header> 
+ 
+<section class="search"> 
+ 
+    <label for="searchInput"></label> 
+    <input type="text" placeholder="Введіть назву товару" name="text" 
+class="input input-search" id="searchInput"> 
+    <div id="searchMessage" class="search-message"></div>
+</section> 
+<div id="addToCartNotification" class="add-to-cart-notification"></div>
+<section class="filters">
+    <div class="container">
+        <div class="filters-content">
+            <div class="filter-price">
+                <div id="price-range-slider"></div>
+                <div class="price-inputs">
+                    <label for="minPrice">Мін. ціна:</label>
+                    <input type="number" id="minPrice" placeholder="0">
+                    <label for="maxPrice">Макс. ціна:</label>
+                    <input type="number" id="maxPrice" placeholder="10000">
+                </div>
+                <button onclick="applyFilters()" class="btn-filter">Застосувати фільтр</button>
+            </div>
+            <div id="itemCount" class="item-count">Знайдено товарів: 0</div>
+        </div>
+    </div>
+</section>
+
+<section class="catalog" id="catalog"> 
+    <div class="items"> 
+    </div> 
+</section> 
+<script type="text/javascript" src="catalog.js"></script> 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.7.0/nouislider.min.js"></script> 
+</body> 
+</html>
