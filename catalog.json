@@ -102,5 +102,165 @@
     "newPrice": null,
     "image": "https://via.placeholder.com/300?text=AC+Mirage",
     "orderLink": "#"
+  },
+  {
+    "id": 14,
+    "name": "Far Cry 6",
+    "price": 1700.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=Far+Cry+6",
+    "orderLink": "#"
+  },
+  {
+    "id": 15,
+    "name": "Battlefield 2042",
+    "price": 1800.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=Battlefield+2042",
+    "orderLink": "#"
+  },
+  {
+    "id": 16,
+    "name": "Counter-Strike 2",
+    "price": 0.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=CS2",
+    "orderLink": "#"
+  },
+  {
+    "id": 17,
+    "name": "Dying Light 2",
+    "price": 2100.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=Dying+Light+2",
+    "orderLink": "#"
+  },
+  {
+    "id": 18,
+    "name": "Forza Horizon 5",
+    "price": 2400.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=Forza+Horizon+5",
+    "orderLink": "#"
+  },
+  {
+    "id": 19,
+    "name": "Need for Speed Unbound",
+    "price": 1900.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=NFS+Unbound",
+    "orderLink": "#"
+  },
+  {
+    "id": 20,
+    "name": "Mortal Kombat 1",
+    "price": 2600.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=MK1",
+    "orderLink": "#"
+  },
+  {
+    "id": 21,
+    "name": "Tekken 8",
+    "price": 2700.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=Tekken+8",
+    "orderLink": "#"
+  },
+  {
+    "id": 22,
+    "name": "EA Sports FC 25",
+    "price": 2500.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=EA+Sports+FC+25",
+    "orderLink": "#"
+  },
+  {
+    "id": 23,
+    "name": "NBA 2K25",
+    "price": 2400.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=NBA+2K25",
+    "orderLink": "#"
+  },
+  {
+    "id": 24,
+    "name": "Valorant",
+    "price": 0.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=Valorant",
+    "orderLink": "#"
+  },
+  {
+    "id": 25,
+    "name": "Minecraft",
+    "price": 1300.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=Minecraft",
+    "orderLink": "#"
+  },
+  {
+    "id": 26,
+    "name": "Terraria",
+    "price": 400.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=Terraria",
+    "orderLink": "#"
+  },
+  {
+    "id": 27,
+    "name": "Rust",
+    "price": 900.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=Rust",
+    "orderLink": "#"
+  },
+  {
+    "id": 28,
+    "name": "DayZ",
+    "price": 1100.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=DayZ",
+    "orderLink": "#"
+  },
+  {
+    "id": 29,
+    "name": "PUBG: Battlegrounds",
+    "price": 0.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=PUBG",
+    "orderLink": "#"
+  },
+  {
+    "id": 30,
+    "name": "Sea of Thieves",
+    "price": 1500.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=Sea+of+Thieves",
+    "orderLink": "#"
+  },
+  {
+    "id": 31,
+    "name": "Metro Exodus",
+    "price": 800.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=Metro+Exodus",
+    "orderLink": "#"
+  },
+  {
+    "id": 32,
+    "name": "Alan Wake 2",
+    "price": 2500.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=Alan+Wake+2",
+    "orderLink": "#"
+  },
+  {
+    "id": 33,
+    "name": "Dead Space Remake",
+    "price": 2200.00,
+    "newPrice": null,
+    "image": "https://via.placeholder.com/300?text=Dead+Space",
+    "orderLink": "#"
   }
 ]
